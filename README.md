@@ -6,7 +6,7 @@ Analysis to ensure that weather will not impact our "Surf n' Shake" shop in Oahu
 To get a good idea of the weather during the whole year, two months at different points of the year where choosen: June and December
 
 ## Results
-* The outcomes are very similar for the months of June and December.<br>
+* The outcomes are very similar for the months of June and December with high temperatures all year round.<br>
 * This shows that Oahu Hawaii has good weather all year round and there shouldn't be a negative impact due to weather.<br>
 * The first quantile for December shows a temperature of 69 fahrenheit which should still invite people to enjoy ice cream and surfing.<br>
 
